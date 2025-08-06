@@ -1,0 +1,1 @@
+[![ismail-dev-code/typescript-technocart context](https://badge.forgithub.com/ismail-dev-code/typescript-technocart?accept=text%2Fhtml&maxTokens=50000&ext=js)](https://uithub.com/ismail-dev-code/typescript-technocart?accept=text%2Fhtml&maxTokens=50000&ext=js)
